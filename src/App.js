@@ -5,10 +5,14 @@ import Detail from "./routes/Detail";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <Routes>
-        <Route path="/movie/:id" element={<Detail />} />
-        <Route path="/" element={<Home />} />
+        <Route
+          basename={process.env.PUBLIC_URL}
+          path="/movie/:id"
+          element={<Detail />}
+        />
+        <Route basename={process.env.PUBLIC_URL} path="/" element={<Home />} />
       </Routes>
     </Router>
   );
