@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/https//ok0035.github.io/ytx_movie_viewer/static/css/main.e6c13ad2.css",
-    "main.js": "/https//ok0035.github.io/ytx_movie_viewer/static/js/main.4aa1aa4c.js",
+    "main.js": "/https//ok0035.github.io/ytx_movie_viewer/static/js/main.1c2c1b1e.js",
     "static/js/787.535b6969.chunk.js": "/https//ok0035.github.io/ytx_movie_viewer/static/js/787.535b6969.chunk.js",
     "index.html": "/https//ok0035.github.io/ytx_movie_viewer/index.html",
     "main.e6c13ad2.css.map": "/https//ok0035.github.io/ytx_movie_viewer/static/css/main.e6c13ad2.css.map",
-    "main.4aa1aa4c.js.map": "/https//ok0035.github.io/ytx_movie_viewer/static/js/main.4aa1aa4c.js.map",
+    "main.1c2c1b1e.js.map": "/https//ok0035.github.io/ytx_movie_viewer/static/js/main.1c2c1b1e.js.map",
     "787.535b6969.chunk.js.map": "/https//ok0035.github.io/ytx_movie_viewer/static/js/787.535b6969.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4aa1aa4c.js"
+    "static/js/main.1c2c1b1e.js"
   ]
 }
